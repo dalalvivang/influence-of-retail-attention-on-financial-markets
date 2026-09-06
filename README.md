@@ -6,7 +6,7 @@ An econometric study testing whether digital search intent (Google Search Volume
 
 📄 **[Read the full paper →](Research_Paper.pdf)**
 📋 **[Front matter (certificate, declaration, abstract) →](Front_Matter_Redacted.pdf)**
-💻 **[Reproduction script →](code/var_analysis.py)**
+💻 **[Reproduction script →](code/analysis.py)**
 📊 **[Raw data →](data/Thesis_Master_Data.xlsx)**
 
 > Enrollment number redacted from the certificate page; all signatures and grading are unredacted and genuine.
